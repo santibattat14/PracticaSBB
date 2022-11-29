@@ -1,9 +1,2 @@
-Mercedesazul232324Audi,Blanco26729
-Audi,blanca37829
-BMW,Gris37296
-Bmw,blanco97976
-mercedes,azul78687
-mercedes,azul,7868,7
-Mercedes,azul,345,5
 Mercedes,azul,345,5
 Mercedes,azul,345,5
